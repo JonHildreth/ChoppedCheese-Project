@@ -1,0 +1,47 @@
+body{
+    background-color: lightsteelblue;
+}
+.title{
+    color: azure;
+    text-align: center;
+    padding-top: 12px;
+}
+.desciption{
+    border: solid white;
+    color: black;
+    padding: 15px;
+    margin: 22px ;
+    text-align: center;
+}
+.headerContainer{
+    height: 125px;
+    margin-bottom: 20px;
+    background-image: url(https://64.media.tumblr.com/2e12227057d079d63dc70c97ede30c1f/tumblr_o4zsm3IzG51ta9suso1_500.gif);
+}
+.ccPic{
+    border: solid black;
+    border-radius: 12px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.ingredients{
+    text-align: center;
+}
+.items{
+    list-style-type: none;
+    text-align: center;
+    margin-right: 35px;
+}
+.stepsContainer{
+    border: solid;
+    margin: 12px;
+    padding: 22px;
+    background-image: url(https://j.gifs.com/G65MKL.gif);
+}
+.steps{
+    color: white;
+    list-style-type: none;
+    text-align: center;
+    margin: 12px;
+}
